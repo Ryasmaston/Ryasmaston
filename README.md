@@ -1,5 +1,10 @@
-## Hi there 👋
+## Thanks for coming 👋
+<p> 
+  
+[<img src="https://img.shields.io/badge/Codewars-red" />](https://www.codewars.com/users/Ryasmaston)
+[<img src="https://img.shields.io/badge/LinkedIn-blue" />](https://www.linkedin.com/in/ryan-osmaston-a3b608134/)
 
+</p>
 <!--
 **Ryasmaston/Ryasmaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
