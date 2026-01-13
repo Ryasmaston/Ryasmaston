@@ -9,7 +9,7 @@
 </p>
 
 **Software engineer** based in **London, UK** <br>
-Currently enrolled in the **[Makers Academy](https://makers.tech/) 16-week intensive software engineering bootcamp**, building full-stack   applications using modern technologies and industry-standard engineering practices
+Currently enrolled in the **[Makers Academy](https://makers.tech/) 16-week intensive software engineering bootcamp**, building full-stack applications using modern technologies and industry-standard engineering practices
 
 
 ---
